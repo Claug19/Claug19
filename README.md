@@ -9,7 +9,7 @@ Most of the projects I wrote are in process of being uploaded. :)
 
 - C, C++, Python  - used in highschool, college and at work
 - TypeScript, Java, C#  - used in college and for personal projects
-- LUA - used as a personal hobby in World of Warcraft to script my own addon snippets.
+- Lua - used as a personal hobby in World of Warcraft to script my own addon snippets.
 
 <h3>Technologies: </h3>
 <table>
