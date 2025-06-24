@@ -1,12 +1,14 @@
-<h1>About me:</h1> 
+<div id="readme-top"/>
+<h1>About me:</h1>  
 
-[![Claudiu-ghit](https://custom-icon-badges.demolab.com/badge/Claudiu_Ghit-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/claudiu-ghit/) 
+[![Claudiu-ghit](https://custom-icon-badges.demolab.com/badge/Claudiu_Ghit-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/claudiu-ghit/)
+[![Gmail](https://img.shields.io/badge/ghit.claudiu96@gmail.com-D14836?logo=gmail&logoColor=white)](ghit.claudiu96@gmail.com)
 
 Software engineer interested in diversifing my field of expertise (epecially on the front-end side).  
 Most of the projects I wrote are in process of being uploaded. :)  
 
 - C, C++, Python  - used in highschool, college and at work
-- Type Script, Java, C#  - used in college and for personal projects
+- TypeScript, Java, C#  - used in college and for personal projects
 - LUA - used as a personal hobby in World of Warcraft to script my own addon snippets.
 
 <h3>Technologies: </h3>
@@ -78,3 +80,5 @@ Most of the projects I wrote are in process of being uploaded. :)
      </tr>
   </tbody>
 </table>
+
+<p align="right"><a href="#readme-top">(back to top)</a></p>
