@@ -1,6 +1,8 @@
-<h1>About me:</h1>
-Software engineer interested in diversifing my field of expertise (epecially on the front-end side).
+<h1>About me:</h1> 
 
+[![Claudiu-ghit](https://custom-icon-badges.demolab.com/badge/Claudiu_Ghit-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/claudiu-ghit/) 
+
+Software engineer interested in diversifing my field of expertise (epecially on the front-end side).  
 Most of the projects I wrote are in process of being uploaded. :)  
 
 - C, C++, Python  - used in highschool, college and at work
@@ -49,12 +51,12 @@ Most of the projects I wrote are in process of being uploaded. :)
   </tbody>
 </table>
 
-
+<h3>Stats: </h3>
 <table>
   <thead>
     <tr>
-      <th scope="col" align="center" valign="middle"><h3>GitHub Stats:</h3></th>
-      <th scope="col" align="center" valign="middle"><h3>Leetcode stats:</h3></th>
+      <th scope="col" align="center" valign="middle">GitHub:</th>
+      <th scope="col" align="center" valign="middle">Leetcode:</th>
     </tr>
   </thead>
   <tbody>
