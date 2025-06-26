@@ -7,8 +7,8 @@
 C++/Python software engineer interested in diversifing my field of expertise in other programming languages.  
 Most of the projects I wrote are in process of being uploaded. :)  
 
-- C, C++, Python  - used in highschool, college and at work
-- TypeScript, Java, C#  - used in college and for personal projects
+- C, C++, Python  - used in professional work environments.
+- TypeScript, Java, C#  - used in college and for personal projects.
 - Lua - used as a personal hobby in World of Warcraft to script my own addon snippets.
 
 <h3><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25" height="25" valign="bottom"> Technologies: </h3>
