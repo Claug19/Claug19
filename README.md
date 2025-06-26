@@ -3,7 +3,6 @@
 
 [![Claudiu-ghit](https://custom-icon-badges.demolab.com/badge/Claudiu_Ghit-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/claudiu-ghit/)
 [![Gmail](https://img.shields.io/badge/ghit.claudiu96@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:wwww.ghit.claudiu96@gmail.com)
-[![Profile](https://komarev.com/ghpvc/?username=Claug19&label=Profile%20views&color=0e75b6&style=flat)](#)
 
 C++/Python software engineer interested in diversifing my field of expertise in other programming languages.  
 Most of the projects I wrote are in process of being uploaded. :)  
@@ -81,5 +80,7 @@ Most of the projects I wrote are in process of being uploaded. :)
      </tr>
   </tbody>
 </table>
+
+[<img align="left" src="https://komarev.com/ghpvc/?username=Claug19&label=Profile%20views&color=0e75b6&style=flat">](#)  
 
 <p align="right"><a href="#readme-top">(back to top)</a></p>
